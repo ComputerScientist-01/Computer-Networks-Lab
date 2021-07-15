@@ -5,23 +5,15 @@
     
 </p>
 
-<h2 align="center"> Insert Project Title Here </h2>
-<h4 align="center"> Insert Project Description Here <h4>
+<h2 align="center">Computer Networks Lab</h2>
 
-## Demo - [Link](link)
+All of my labwork done as part of Computer Networks(18CSC302J) lab.
 
-## :fire: Features
+## :bulb: Languages used
 
-- point 1
-- point 2
-- point 3
-- point 4
+- Python
 
-## :bulb: Built Using
-
-- [**a**]()
-- [**b**]()
-- [**c**]()
+---
 
 ## :iphone: Screenshots
 

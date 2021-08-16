@@ -2,13 +2,18 @@
 
 ## GIVEN REQUIREMENTS:
 
-    There are two hosts, Client and Server. The Client accepts the message from the user and sends it to the Server.
-    The Server receives the message, prints it and echoes the message back to the Client.
+There are two hosts, Client and Server. The Client accepts the message from the user and sends it to the Server.
+The Server receives the message, prints it and echoes the message back to the Client.
+
+---
 
 ## TECHNICAL OBJECTIVE:
 
-    To implement an UDP Echo Client-Server application, where the Client on establishing a connection with the Server,sends a string to the Server.
-    The Server reads the String, prints it and echoes it back to the Client.
+To implement an UDP Echo Client-Server application,
+Where the Client on establishing a connection with the Server,sends a string to the Server.
+The Server reads the String, prints it and echoes it back to the Client.
+
+---
 
 ## METHODOLOGY:
 
